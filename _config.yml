@@ -9,25 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Suxin Ji / Data & ML Engineer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Suxin Ji"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://suzieji.github.io/suxinji.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SuzieJi/suxinji.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "images/Suxin.jpg"
+  name             : "Suxin Ji"
+  pronouns         : "she/her"  
+  bio              : "I am a data engineer with a strong focus on building scalable data pipelines, optimizing data infrastructure, and enabling data-driven decision-making. With experience in both data engineering and AI/ML, I design robust systems that support analytics, machine learning, and real-time applications. I specialize in tools and technologies such as SQL, Python, Spark, Kafka, and various ML frameworks, and am passionate about turning complex data into actionable insights through automation and intelligent systems."
+  location         : "Atlanta / Georgia"
+  employer         : "Georgia State University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "SuzieJi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
