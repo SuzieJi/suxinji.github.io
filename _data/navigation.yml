@@ -10,8 +10,11 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+  # - title: "CV"
+  #  url: /cv/
+  
   - title: "CV"
-    url: /cv/
+    url: /files/CV_JI.pdf
 
   - title: "Talks"
     url: /talks/    
