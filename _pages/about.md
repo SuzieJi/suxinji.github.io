@@ -16,3 +16,6 @@ Beyond technical execution, I’m deeply committed to collaboration, ownership, 
 I also actively contribute to the data community, having been recognized as a top contributor in the Incorta Community Forum, and have created technical video tutorials to support user onboarding and knowledge sharing. My values are rooted in integrity, continuous learning, and leading by example — both in the code I write and in the teams I support.
 
 Here is my CV
+
+📄 **Here is my CV** —  
+[Click here to download my CV (PDF)](/files/CV_JI.pdf)
