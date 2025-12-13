@@ -13,8 +13,8 @@ main:
   # - title: "CV"
   #  url: /cv/
   
-  - title: "CV"
-    url: /files/CV_JI.pdf
+  # - title: "CV"
+  #   url: /files/CV_JI.pdf
 
   - title: "Talks"
     url: /talks/    
