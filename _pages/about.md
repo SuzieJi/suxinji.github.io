@@ -19,5 +19,4 @@ I also actively contribute to the data community, having been recognized as a to
 
 Here is my CV
 
-📄 **Here is my CV** —  
-[Click here to download my CV (PDF)](files/CV_JI.pdf)
+📄 **Here is my [CV]**(files/CV_JI.pdf)
